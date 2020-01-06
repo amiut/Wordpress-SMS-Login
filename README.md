@@ -7,7 +7,7 @@ A very simple sms login method
 | Parameter     | Description   |
 | ------------- |:-------------:|
 | identifier    | Mobile number or email address |
-| **Response**  | JSON: 6 digit otp code |
+| **Response**  | JSON: 6 digit otp code will be sent to phone or email |
 
 
 ## Verify and login
